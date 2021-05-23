@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="ISO-8859-1">
+<body>
+<h1>Insert an Image into MySQL Database!</h1>
+<form id="form1" enctype="multipart/form-data"  action="home" method="post">
+	<input type="text" name="fname"><br><br>
+	<input type="file" accept=".png, .gif, .jpeg, .jpg" name="photo"><br><br>
+	<input type="submit" name="submit" value="Submit">
+</form>
+
+<form action="fetch" method="get" enctype="multipart/form-data">
+	Picture Name : <input type="text" name="fname" placeholder="Enter image name"><br><br>
+	<input type="submit" value="View">
+</form>
+</body>
+</html>
