@@ -16,5 +16,6 @@ I have provided the important files to run the project. You can simply use the s
 ### PreparedStatement
 ![](imageservlet.PNG)
 
-
+### CallableStatement
+![](Callable.PNG)
 
