@@ -6,7 +6,7 @@
 - After selecting configure build path
   - You will see this window
   - ![](build.PNG)
-- Then click on external jars to connect mysql connector with the project
+- Then click on Add external jars to connect mysql connector with the project
 - At last click Apply and close the window
 I have provided the important files to run the project. You can simply use the servlet and html files in your project.
 
