@@ -10,3 +10,11 @@
 - At last click Apply and close the window
 I have provided the important files to run the project. You can simply use the servlet and html files in your project.
 
+### Statement
+![](statement.PNG)
+
+### PreparedStatement
+![](imageservlet.PNG)
+
+
+
